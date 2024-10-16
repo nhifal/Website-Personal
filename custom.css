@@ -1,0 +1,47 @@
+/* Custom styles */
+.hero-section {
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .navbar-brand {
+    font-size: 2rem;
+  }
+  
+  .card img {
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .carousel-item {
+    padding: 20px;
+  }
+  
+  .testimonials .card img {
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  footer {
+    background-color: #333;
+  }
+  
+  footer p {
+    margin: 0;
+    color: #ccc;
+  }
+  
+  footer a {
+    color: #ff6f61;
+  }
+  
+  footer a:hover {
+    color: #ff847c;
+  }
+  
+  
